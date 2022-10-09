@@ -5,4 +5,4 @@
 # This file contains constants.
 
 
-TAX_RATE_ONTARIO = 13
+TAX_RATE_ALBERTA = 5
